@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>Southeast Soil & Water</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+</head>
+<!-- NAVBAR ================================================== -->
+<body>
+<div class="navbar-wrapper">
+    <div class="container-fluid">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#seswNav"
+                            aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><img src="img/SESW.jpg"></a>
+                </div>
+
+                <div id="seswNav" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav" role="tablist">
+                        <li>
+                            <a href="index.html" aria-controls="home" role="tab">Home</a>
+                        </li>
+                        <li>
+                            <a href="about.html" aria-controls="about" role="tab">About</a>
+                        </li>
+                        <li role="presentation" class="active">
+                            <a href="contact.html" aria-controls="contact" role="tab">Contact</a>
+                        </li>
+                        <li>
+                            <a href="personnel.html" aria-controls="personnel" role="tab">Personnel</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div id="map"></div>
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h4>Contact details</h4>
+                <dl class="dl-horizontal">
+                    <dt>
+                        Phone:
+                    </dt>
+                    <dd>
+                        <a href="tel:+61 439 341 265">0439 341 265</a>
+                    </dd>
+                    <dt>
+                        Email (General)
+                    </dt>
+                    <dd>
+                        <a href="mailto:info@sesw.com.au">info@sesw.com.au</a>
+                    </dd>
+                    <dt>
+                        Email (Christian)
+                    </dt>
+                    <dd>
+                        <a href="mailto:christian@sesw.com.au">christian@sesw.com.au</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h4>Drop us a line</h4>
+                <form>
+                    <div class="form-group">
+                        <label for="lblName">Name</label>
+                        <input type="text" class="form-control" id="lblName" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="lblEmail">Email</label>
+                        <input type="email" class="form-control" id="lblEmail" placeholder="Email Address">
+                    </div>
+                    <div class="form-group">
+                        <label for="lblBody">Message</label>
+                        <textarea rows="5" class="form-control" id="lblBody" placeholder="Message"></textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-default">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- FOOTER -->
+    <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+
+        <p>&copy; 2016 South East Soil & Water &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+    </footer>
+</div>
+</body>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery.min.js"><\/script>')</script>
+<script src="js/bootstrap/bootstrap.js"></script>
+<script src="js/contact.js"></script>
+</html>
