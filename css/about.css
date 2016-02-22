@@ -1,0 +1,22 @@
+/* Parallax */
+.bg-1 {
+    background: url('../img/homepage/homepage6.jpg') no-repeat center top fixed;
+    color:#fff;
+    background-size:cover;
+    height: 400px;
+    width:100%;
+}
+
+.bg-2 {
+    background: url('../img/homepage/homepage5.JPG') no-repeat center top fixed;
+    color:#fff;
+    background-size:cover;
+    height: 400px;
+    width:100%;
+}
+
+.green-trans {
+    background-color: rgba(255, 0, 0, 0.4);
+    padding: 10px;
+    margin: auto;
+}
