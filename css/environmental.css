@@ -1,0 +1,9 @@
+
+/* Parallax */
+.bg-1 {
+    background: url('../img/homepage/homepage7.jpg') no-repeat center top fixed;
+    color:#fff;
+    background-size:cover;
+    height: 350px;
+    width:100%;
+}

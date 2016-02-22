@@ -1,0 +1,76 @@
+
+/* Image CSS */
+.ag-circle {
+    background: url('../img/homepage/homepage1.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    margin: auto;
+}
+.env-circle {
+    background: url('../img/environmental/environmental1.JPG') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    margin: auto;
+}
+
+.dom-circle {
+    background: url('../img/domestic/domestic1.JPG') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    margin: auto;
+}
+
+.carousel-img1 {
+    background: url('../img/homepage/homepage1.jpg') no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-img2 {
+    background: url('../img/homepage/homepage3.jpg') no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-img3 {
+    background: url('../img/homepage/homepage4.JPG') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-img4 {
+    background: url('../img/education/education2.JPG') no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}

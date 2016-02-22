@@ -174,4 +174,11 @@ body {
     .featurette-heading {
     }
 }
-Status API Training Shop Blog About Pricing
+
+.spacer {
+    height: 20px;
+}
+
+.header {
+    margin-top: 20%;
+}
