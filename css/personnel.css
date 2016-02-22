@@ -1,0 +1,23 @@
+.christian-circle {
+    background: url('../img/personnel/christian_bannan.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 50%;
+    width: 146px;
+    height: 146px;
+    margin: auto;
+}
+
+.roger-circle {
+    background: url('../img/personnel/roger_wrigley.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 50%;
+    width: 146px;
+    height: 146px;
+    margin: auto;
+}
