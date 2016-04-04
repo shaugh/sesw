@@ -1,6 +1,7 @@
 applications:
 - name: sesw-website
   host: sesw-website
+  domain: sesw.com.au
   memory: 256M
   disk: 128M
   instances: 1
