@@ -69,7 +69,7 @@ body {
 }
 
 .navbar-inverse {
-    background-color: #808080;
+    background: #808080 url('../img/cubes.png') repeat;
     border-color: #363636;
 }
 
