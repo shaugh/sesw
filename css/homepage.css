@@ -1,7 +1,7 @@
 
 /* Image CSS */
 .ag-circle {
-    background: url('../img/homepage/homepage1.jpg') no-repeat center;
+    background: url('../img/agriculture.jpg') no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -11,8 +11,21 @@
     height: 140px;
     margin: auto;
 }
+
 .env-circle {
-    background: url('../img/environmental/environmental1.JPG') no-repeat center;
+    background: url('../img/environmental.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    margin: auto;
+}
+
+.geo-circle {
+    background: url('../img/geotechnical.jpg') no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -24,7 +37,7 @@
 }
 
 .dom-circle {
-    background: url('../img/domestic/domestic1.JPG') no-repeat center;
+    background: url('../img/domestic.jpg') no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
