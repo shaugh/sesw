@@ -4,15 +4,24 @@
 
 body {
     padding-bottom: 40px;
-    color: #5a5a5a;
+    color: #B3B3B3;
     /*background-color: #B99C6B;*/
     /*background-color: #A9A18C;*/
     /*background-color: #BDD09F;*/
     /*background-color: #A3ADB8;*/
     /*background-color: #dfe0e0;*/
-    background-color: #ffffff;
+    background-color: #363636;
+    font-family: 'Raleway', sans-serif;
 }
 
+.paddingBelow {
+    margin-bottom: 20px;
+    background-color: #858585;
+}
+
+.breadcrumb {
+    background-color: #363636;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -51,16 +60,16 @@ body {
 }
 
 .navbar-inverse {
-    background-color: #404f24;
-    border-color: #613318;
+    background-color: #808080;
+    border-color: #363636;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    background-color: #668D3C;
+    background-color: #555555;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #BDD09F;
+    color: #555555;
 }
 
 #map {
