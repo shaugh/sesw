@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cddf5f35-ef16-4a4f-b19b-b85d48df0641" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personnel.html" afterPath="$PROJECT_DIR$/personnel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/homepage.css" afterPath="$PROJECT_DIR$/css/homepage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="sesw.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+            <state relative-caret-position="175">
+              <caret line="110" column="51" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -66,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homepage.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="homepage.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/homepage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -96,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -151,11 +150,11 @@
         <option value="$PROJECT_DIR$/domestic.html" />
         <option value="$PROJECT_DIR$/geotechnical.html" />
         <option value="$PROJECT_DIR$/environmental.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/homepage.css" />
         <option value="$PROJECT_DIR$/personnel.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/homepage.css" />
       </list>
     </option>
   </component>
@@ -253,7 +252,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="person&#9;FILE&#9;file:///Users/admj061/Personal/sesw/personnel.html&#10;about&#9;FILE&#9;file:///Users/admj061/Personal/sesw/about.html&#10;index&#9;FILE&#9;file:///Users/admj061/Personal/sesw/index.html&#10;custom&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/custom.css&#10;persone&#9;null&#9;null&#10;contact&#9;FILE&#9;file:///Users/admj061/Personal/sesw/contact.html&#10;domes&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/domestic.css&#10;agri&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/agricultural.css&#10;geot&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/geotechnical.css&#10;gitigno&#9;FILE&#9;file:///Users/admj061/Personal/sesw/.gitignore" />
+    <property name="SearchEverywhereHistoryKey" value="index&#9;FILE&#9;file:///Users/admj061/Personal/sesw/index.html&#10;person&#9;FILE&#9;file:///Users/admj061/Personal/sesw/personnel.html&#10;about&#9;FILE&#9;file:///Users/admj061/Personal/sesw/about.html&#10;custom&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/custom.css&#10;persone&#9;null&#9;null&#10;contact&#9;FILE&#9;file:///Users/admj061/Personal/sesw/contact.html&#10;domes&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/domestic.css&#10;agri&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/agricultural.css&#10;geot&#9;FILE&#9;file:///Users/admj061/Personal/sesw/css/geotechnical.css&#10;gitigno&#9;FILE&#9;file:///Users/admj061/Personal/sesw/.gitignore" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/v0.10.44/bin/node" />
   </component>
   <component name="RecentsManager">
@@ -331,7 +330,7 @@
       <updated>1459809907316</updated>
       <workItem from="1460680011325" duration="2743000" />
       <workItem from="1470107641459" duration="1885000" />
-      <workItem from="1470113649840" duration="3939000" />
+      <workItem from="1470113649840" duration="6287000" />
     </task>
     <task id="LOCAL-00001" summary="rename all 'Southeast' to 'South East'">
       <created>1460680191673</created>
@@ -375,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470116633793</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Daker bg on about page - fix for header on personnel">
+      <created>1470117937730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1470117937730</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8567000" />
+    <option name="totallyTimeSpent" value="10915000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,7 +432,8 @@
     <MESSAGE value="update gitignore" />
     <MESSAGE value="new images from sos" />
     <MESSAGE value="New look and feel (in progress)" />
-    <option name="LAST_COMMIT_MESSAGE" value="New look and feel (in progress)" />
+    <MESSAGE value="Daker bg on about page - fix for header on personnel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daker bg on about page - fix for header on personnel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -720,22 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/homepage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personnel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -756,6 +747,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="110" column="51" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>

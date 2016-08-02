@@ -1,51 +1,46 @@
 
 /* Image CSS */
-.ag-circle {
-    background: url('../img/agriculture.jpg') no-repeat center;
+.circleImage {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    -webkit-border-radius: 50%;
     border-radius: 50%;
+    -webkit-transition: -webkit-box-shadow 0.1s ease-out, opacity 0.1s ease-out;
+    -moz-transition: -moz-box-shadow 0.1s ease-out, opacity 0.1s ease-out;
+    transition: box-shadow 0.1s ease-out, opacity 0.1s ease-out;
     width: 230px;
     height: 230px;
     margin: auto;
+}
+
+.popDiv {
+
+}
+
+.popDiv:hover .circleImage {
+    -webkit-box-shadow: 0 0 30px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0 0 30px  rgba(0,0,0,0.6);
+    box-shadow: 0 0 30px rgba(0,0,0,0.6);
+    opacity: 1;
+    cursor: pointer;
+}
+
+.ag-circle {
+    background: url('../img/agriculture.jpg') no-repeat center;
 }
 
 .env-circle {
     background: url('../img/environmental.jpg') no-repeat center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    border-radius: 50%;
-    width: 230px;
-    height: 230px;
-    margin: auto;
 }
 
 .geo-circle {
     background: url('../img/geotechnical.jpg') no-repeat center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    border-radius: 50%;
-    width: 230px;
-    height: 230px;
-    margin: auto;
 }
 
 .dom-circle {
     background: url('../img/domestic.jpg') no-repeat center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    border-radius: 50%;
-    width: 230px;
-    height: 230px;
-    margin: auto;
 }
 
 .carousel-img1 {
